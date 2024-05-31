@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/873739392829437913/30658b5f69db4b4f86c99ecd48bdbc9d/artifacts
+deleted_time: 1717166431462
+end_time: 1717166305241
+entry_point_name: ''
+experiment_id: '873739392829437913'
+lifecycle_stage: deleted
+run_id: 30658b5f69db4b4f86c99ecd48bdbc9d
+run_name: caring-grouse-582
+run_uuid: 30658b5f69db4b4f86c99ecd48bdbc9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717166292916
+status: 3
+tags: []
+user_id: Ioan.Morar

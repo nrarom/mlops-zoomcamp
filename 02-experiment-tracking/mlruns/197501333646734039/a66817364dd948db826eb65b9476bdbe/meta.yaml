@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/197501333646734039/a66817364dd948db826eb65b9476bdbe/artifacts
+end_time: 1717165281979
+entry_point_name: ''
+experiment_id: '197501333646734039'
+lifecycle_stage: active
+run_id: a66817364dd948db826eb65b9476bdbe
+run_name: welcoming-bee-859
+run_uuid: a66817364dd948db826eb65b9476bdbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717165221446
+status: 3
+tags: []
+user_id: Ioan.Morar

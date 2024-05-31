@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/197501333646734039/c0acf6b8ff4740269da17284b19c1dc0/artifacts
+end_time: 1717165093670
+entry_point_name: ''
+experiment_id: '197501333646734039'
+lifecycle_stage: active
+run_id: c0acf6b8ff4740269da17284b19c1dc0
+run_name: kindly-horse-324
+run_uuid: c0acf6b8ff4740269da17284b19c1dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717165033191
+status: 3
+tags: []
+user_id: Ioan.Morar

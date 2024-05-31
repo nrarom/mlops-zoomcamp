@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/873739392829437913/16d46145fb7a4eb4bbfbaf30ff7c1cbb/artifacts
+deleted_time: 1717166431463
+end_time: 1717166316795
+entry_point_name: ''
+experiment_id: '873739392829437913'
+lifecycle_stage: deleted
+run_id: 16d46145fb7a4eb4bbfbaf30ff7c1cbb
+run_name: adorable-shrew-345
+run_uuid: 16d46145fb7a4eb4bbfbaf30ff7c1cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717166305260
+status: 3
+tags: []
+user_id: Ioan.Morar

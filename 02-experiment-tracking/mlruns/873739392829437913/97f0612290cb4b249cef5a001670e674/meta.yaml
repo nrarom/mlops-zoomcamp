@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/873739392829437913/97f0612290cb4b249cef5a001670e674/artifacts
+end_time: 1717166372939
+entry_point_name: ''
+experiment_id: '873739392829437913'
+lifecycle_stage: active
+run_id: 97f0612290cb4b249cef5a001670e674
+run_name: persistent-shoat-681
+run_uuid: 97f0612290cb4b249cef5a001670e674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717166360670
+status: 3
+tags: []
+user_id: Ioan.Morar

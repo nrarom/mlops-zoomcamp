@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/873739392829437913/3bb4905c655b4df6abbab8f7abab3222/artifacts
+deleted_time: 1717166431463
+end_time: 1717166384562
+entry_point_name: ''
+experiment_id: '873739392829437913'
+lifecycle_stage: deleted
+run_id: 3bb4905c655b4df6abbab8f7abab3222
+run_name: mercurial-shad-298
+run_uuid: 3bb4905c655b4df6abbab8f7abab3222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717166372960
+status: 3
+tags: []
+user_id: Ioan.Morar

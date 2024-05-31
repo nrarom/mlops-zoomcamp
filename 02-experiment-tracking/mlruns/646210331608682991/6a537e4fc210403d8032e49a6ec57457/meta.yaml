@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Trainings/MLOps/mlops-zoomcamp/02-experiment-tracking/mlruns/646210331608682991/6a537e4fc210403d8032e49a6ec57457/artifacts
+end_time: 1717164603562
+entry_point_name: ''
+experiment_id: '646210331608682991'
+lifecycle_stage: active
+run_id: 6a537e4fc210403d8032e49a6ec57457
+run_name: nervous-hare-957
+run_uuid: 6a537e4fc210403d8032e49a6ec57457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717164586802
+status: 3
+tags: []
+user_id: Ioan.Morar

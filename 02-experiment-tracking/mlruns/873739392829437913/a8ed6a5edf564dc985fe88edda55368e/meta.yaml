@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/873739392829437913/a8ed6a5edf564dc985fe88edda55368e/artifacts
+end_time: 1717166467830
+entry_point_name: ''
+experiment_id: '873739392829437913'
+lifecycle_stage: active
+run_id: a8ed6a5edf564dc985fe88edda55368e
+run_name: respected-cub-874
+run_uuid: a8ed6a5edf564dc985fe88edda55368e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717166456691
+status: 3
+tags: []
+user_id: Ioan.Morar

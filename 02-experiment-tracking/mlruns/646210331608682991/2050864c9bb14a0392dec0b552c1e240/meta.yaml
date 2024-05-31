@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Trainings/MLOps/mlops-zoomcamp/02-experiment-tracking/mlruns/646210331608682991/2050864c9bb14a0392dec0b552c1e240/artifacts
+end_time: 1717164266672
+entry_point_name: ''
+experiment_id: '646210331608682991'
+lifecycle_stage: active
+run_id: 2050864c9bb14a0392dec0b552c1e240
+run_name: fun-wren-719
+run_uuid: 2050864c9bb14a0392dec0b552c1e240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717164250058
+status: 3
+tags: []
+user_id: Ioan.Morar
